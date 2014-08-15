@@ -1,0 +1,5 @@
+D:\MyWork\Aegis Services\Application\WebAegisFms\WebAegisFms\Common\bin\Debug\Common.dll
+D:\MyWork\Aegis Services\Application\WebAegisFms\WebAegisFms\Common\bin\Debug\Common.pdb
+D:\MyWork\Aegis Services\Application\WebAegisFms\WebAegisFms\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\MyWork\Aegis Services\Application\WebAegisFms\WebAegisFms\Common\obj\Debug\Common.dll
+D:\MyWork\Aegis Services\Application\WebAegisFms\WebAegisFms\Common\obj\Debug\Common.pdb

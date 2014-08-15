@@ -1,0 +1,43 @@
+﻿@model Model.ContactUsInfo
+
+@{
+    ViewBag.Title = "ContactUs";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@using (Html.BeginForm("ContactUs", "ContactUs", FormMethod.Post, new { id = "frmContactUs" }))
+{ 
+    @Html.ValidationSummary(false, "Please fix below errors.")
+    
+    
+   <div>@Html.Label("Company Name", new { @class=""}) </div> <div> @Html.TextBoxFor(model => model.CompanyName, new { id = "txtCompanyName", @class = "" })</div>
+   <div>@Html.Label("Contact 1", new { @class=""}) </div> <div> @Html.TextBoxFor(model => model.PhoneNumber1, new { id = "txtPhoneNumber1", @class = "" })</div>
+   <div>@Html.Label("Contact 2", new { @class=""}) </div> <div> @Html.TextBoxFor(model => model.PhoneNumber2, new { id = "txtPhoneNumber2", @class = "" })</div>
+
+    <div style="clear:both"></div>
+    
+    <input type="button" id="btnSave" value="Save" />    
+    <input type="reset" id="btnCancel" value="Cancel" />    
+            
+}
+
+<script type="text/javascript">
+    function EditContact(id)
+    {
+        var parameter = {
+            ContactId: id,
+        };
+
+        $.ajax({
+            url: "url",
+            data: parameter,
+            type: "post",
+            success:function(data){
+            
+            },
+            error: function (data) {
+
+            }
+        });
+    }
+</script>

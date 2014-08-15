@@ -1,0 +1,10 @@
+D:\RandD\Aegis\WebAegisFms\SQLDal\obj\Debug\SQLDal.csprojResolveAssemblyReference.cache
+D:\MyWork\Aegis Services\Application\WebAegisFms\WebAegisFms\SQLDal\bin\Debug\SQLDal.dll
+D:\MyWork\Aegis Services\Application\WebAegisFms\WebAegisFms\SQLDal\bin\Debug\SQLDal.pdb
+D:\MyWork\Aegis Services\Application\WebAegisFms\WebAegisFms\SQLDal\bin\Debug\Common.dll
+D:\MyWork\Aegis Services\Application\WebAegisFms\WebAegisFms\SQLDal\bin\Debug\Common.pdb
+D:\MyWork\Aegis Services\Application\WebAegisFms\WebAegisFms\SQLDal\obj\Debug\SQLDal.csprojResolveAssemblyReference.cache
+D:\MyWork\Aegis Services\Application\WebAegisFms\WebAegisFms\SQLDal\obj\Debug\SQLDal.dll
+D:\MyWork\Aegis Services\Application\WebAegisFms\WebAegisFms\SQLDal\obj\Debug\SQLDal.pdb
+D:\MyWork\Aegis Services\Application\WebAegisFms\WebAegisFms\SQLDal\bin\Debug\Model.dll
+D:\MyWork\Aegis Services\Application\WebAegisFms\WebAegisFms\SQLDal\bin\Debug\Model.pdb

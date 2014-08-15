@@ -1,0 +1,11 @@
+D:\MyWork\Aegis Services\Application\WebAegisFms\WebAegisFms\BLL\bin\Debug\BLL.dll
+D:\MyWork\Aegis Services\Application\WebAegisFms\WebAegisFms\BLL\bin\Debug\BLL.pdb
+D:\MyWork\Aegis Services\Application\WebAegisFms\WebAegisFms\BLL\obj\Debug\BLL.dll
+D:\MyWork\Aegis Services\Application\WebAegisFms\WebAegisFms\BLL\obj\Debug\BLL.pdb
+D:\MyWork\Aegis Services\Application\WebAegisFms\WebAegisFms\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\MyWork\Aegis Services\Application\WebAegisFms\WebAegisFms\BLL\bin\Debug\Model.dll
+D:\MyWork\Aegis Services\Application\WebAegisFms\WebAegisFms\BLL\bin\Debug\SQLDal.dll
+D:\MyWork\Aegis Services\Application\WebAegisFms\WebAegisFms\BLL\bin\Debug\Common.dll
+D:\MyWork\Aegis Services\Application\WebAegisFms\WebAegisFms\BLL\bin\Debug\Model.pdb
+D:\MyWork\Aegis Services\Application\WebAegisFms\WebAegisFms\BLL\bin\Debug\SQLDal.pdb
+D:\MyWork\Aegis Services\Application\WebAegisFms\WebAegisFms\BLL\bin\Debug\Common.pdb
